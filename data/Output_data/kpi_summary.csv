@@ -1,0 +1,2 @@
+date_range_start,date_range_end,total_orders,unique_customers,countries,gross_sales_incl_lost,delivered_sales,revenue_lost_cancels,revenue_lost_returns,revenue_lost_total,revenue_loss_pct_of_gross,avg_order_value_delivered
+2010-01-12,2011-12-10,22190,4372,36,9535696.09,8924354.0,611342.09,0,611342.09,6.41,402.18

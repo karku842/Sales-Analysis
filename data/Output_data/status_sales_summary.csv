@@ -1,0 +1,3 @@
+Status,gross_sales,net_sales,lost_on_cancels,lost_on_returns,total_lost
+Cancelled,611342.09,0.0,611342.09,0,611342.09
+Delivered,8924354.00357886,8924354.00357886,0.0,0,0.0
